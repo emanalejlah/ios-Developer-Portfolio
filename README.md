@@ -4,7 +4,7 @@
 an app that helps guardians who want informative information (fees, location, facilities, transportation), to search and compare leverage, so the kids join a school that fits their financial abilities and their kids' abilities.
  
  
- <img src="![image-2](https://user-images.githubusercontent.com/116960445/233877451-0e01e5fa-0c2b-4596-893e-2a20710e223e.png)" width ="150" height="150">
+ <img src="https://imgg.io/image/iZ0Qy" width ="150" height="150">
 
 
 
