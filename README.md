@@ -60,6 +60,16 @@ Tech Used
 - CoreData
 - Sync CoreData with CloudKit
 
+# Mood Tracker
+A digital diary for people who wants to track their mood so that they can improve their mental health.
 
+
+
+ - Team Work App(HotShots)
+ 
+ Tech Used 
+- Swiftui
+- CoreData
+- (MVVM) architecture
 
 
