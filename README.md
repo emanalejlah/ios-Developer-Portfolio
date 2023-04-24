@@ -5,7 +5,7 @@ an app that helps guardians who want informative information (fees, location, fa
  
  
  <img src="https://pasteboard.co/UMBtZyQmHr5V.png" width ="150" height="150">
-
+https://pasteboard.co/UMBtZyQmHr5V.png
 
 
 
