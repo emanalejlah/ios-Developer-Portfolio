@@ -9,6 +9,8 @@ an app that helps guardians who want informative information (fees, location, fa
 ![mm988-2](https://user-images.githubusercontent.com/116960445/233882296-8dd161ea-fc49-41aa-bb31-f65d689fe703.png)
 ![nnnn-2](https://user-images.githubusercontent.com/116960445/233882417-1faf78d6-029c-427c-9c3b-fa6a69b04a4b.png)
 
+📲 Available on the App Store 
+[](https://apps.apple.com/sa/app/estaddel/id6445820616)
 
 
 
