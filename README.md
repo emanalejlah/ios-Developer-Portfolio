@@ -49,6 +49,17 @@ Tech Used
 
 
 
+# Soun App
+The app idea came from a huge need of tracking medical records between different hospitals. As our team noticed that there are some complicated and not very general solutions, we thought of developing a more simple and universal one.
+- Team Work App(RunTime Terror)
+
+https://user-images.githubusercontent.com/116960445/233890560-676161cc-4abd-4904-8936-75a002c45d7b.mp4
+
+Tech Used 
+- Swiftui
+- CoreData
+- Sync CoreData with CloudKit
+
 
 
 
