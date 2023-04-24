@@ -1,5 +1,5 @@
 # ios-Developer-Portfolio
-# Hi 👋, I'm Eman Al-ejilah iOS app developer , trainee at at Apple Developer Academy
+# Hi 👋, I'm Eman Al-ejilah iOS app developer , trainee at Apple Developer Academy
 # Estaddel 
 an app that helps guardians who want informative information (fees, location, facilities, transportation), to search and compare leverage, so the kids join a school that fits their financial abilities and their kids' abilities.
 
@@ -17,6 +17,7 @@ https://apps.apple.com/sa/app/estaddel/id6445820616
  - SwiftUI 
  - Enginner a backend server using cloud Firestore
  - Firebase Storge
+ - Figma
 
 # Cars API
 help users to find the best car based on several criteria
@@ -59,6 +60,7 @@ Tech Used
 - Swiftui
 - CoreData
 - Sync CoreData with CloudKit
+- sketch
 
 # Mood Tracker
 A digital diary for people who wants to track their mood so that they can improve their mental health.
@@ -76,5 +78,6 @@ A digital diary for people who wants to track their mood so that they can improv
 - Swiftui
 - CoreData
 - (MVVM) architecture
+- sketch
 
 
