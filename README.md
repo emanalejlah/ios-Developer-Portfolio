@@ -34,7 +34,7 @@ Feature List
 - Delete Car
 
 Database Schema
-ER Diagram, (UML) diagram or any method you used to represent your database schema.
+ER Diagram, (UML) diagram 
 ![ERD](https://user-images.githubusercontent.com/116960445/233887325-110a29c8-a893-48dd-9360-8d2276e799e2.png)
 
 Postman Requests
