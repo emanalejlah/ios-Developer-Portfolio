@@ -34,7 +34,18 @@ Feature List
 
 Database Schema
 ER Diagram, (UML) diagram or any method you used to represent your database schema.
+![ERD](https://user-images.githubusercontent.com/116960445/233887325-110a29c8-a893-48dd-9360-8d2276e799e2.png)
 
+Postman Requests
+
+<img width="250" alt="Screenshot%201444-08-29%20at%2010 38 18%20PM-2" src="https://user-images.githubusercontent.com/116960445/233887244-df8558fb-6a50-4275-8f5e-e071ab61f385.png">
+
+Tech Used
+
+- Vapor
+- Postgres.app
+- pgAdmin
+- Postico 2
 
 
 
