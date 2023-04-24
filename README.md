@@ -67,6 +67,11 @@ A digital diary for people who wants to track their mood so that they can improv
 
  - Team Work App(HotShots)
  
+ 
+![PHOTO-2023-01-11-17-36-02](https://user-images.githubusercontent.com/116960445/233893638-f347305f-adb4-4291-ba4c-26519ca55f53.png)
+![PHOTO-2023-01-11-17-36-02 2](https://user-images.githubusercontent.com/116960445/233893642-a3c37c43-355c-4347-8d0d-408badf6560a.png)
+![PHOTO-2023-01-11-17-36-02 3](https://user-images.githubusercontent.com/116960445/233893643-59a59ba4-39d2-4283-af04-2a38ad6a77c5.png)
+ 
  Tech Used 
 - Swiftui
 - CoreData
