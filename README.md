@@ -1,5 +1,24 @@
 
 # Hi 👋, I'm Eman Al-ejilah iOS app developer , trainee at Apple Developer Academy
+
+
+# Molhem 
+an app that empowers individuals seeking assistance in inventing research by providing AI-guided support to refine and enhance ideas. With access to diverse tools and resources, users can have effortless ideation process.
+
+📲 Available on the App Store 
+https://apps.apple.com/sa/app/molhem-ملهم/id6449865345
+- Team Work App(Qimma)
+
+
+ Tech Used
+ - AI
+ - SwiftUI 
+ - Firebase 
+ - Figma
+
+
+
+
 # Estaddel 
 an app that helps guardians who want informative information (fees, location, facilities, transportation), to search and compare leverage, so the kids join a school that fits their financial abilities and their kids' abilities.
 
